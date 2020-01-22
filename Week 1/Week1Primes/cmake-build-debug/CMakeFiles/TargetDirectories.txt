@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Jason Lui/CLionProjects/Week1Primes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Jason Lui/CLionProjects/Week1Primes/cmake-build-debug/CMakeFiles/Week1Primes.dir
+/cygdrive/c/Users/Jason Lui/CLionProjects/Week1Primes/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Week2Lab.dir/A00930386_Week2Lab.c.o  -o Week2Lab.exe -Wl,--out-implib,libWeek2Lab.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
