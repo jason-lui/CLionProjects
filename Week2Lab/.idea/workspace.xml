@@ -11,7 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d60743d-8cb8-4380-bd52-aec6bd674d31" name="Default Changelist" comment="" />
+    <list default="true" id="3d60743d-8cb8-4380-bd52-aec6bd674d31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +24,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1WXBELFXlZigYZibvPVhrireRXF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -65,6 +72,7 @@
       <workItem from="1579297161082" duration="32000" />
       <workItem from="1579299546190" duration="3096000" />
       <workItem from="1579673413051" duration="25000" />
+      <workItem from="1579725416790" duration="669000" />
     </task>
     <servers />
   </component>
@@ -72,10 +80,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1579673434007">
+    <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1579738416171">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1579673434007" />
+    <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1579738416171" />
     <state width="1557" height="221" key="GridCell.Tab.0.bottom" timestamp="1579323301504">
       <screen x="0" y="0" width="900" height="1560" />
     </state>
