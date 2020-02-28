@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e926a93-e271-44ba-a4bd-fe3346aec5ba" name="Default Changelist" comment="a">
+      <change afterPath="$PROJECT_DIR$/A00930386_A4/.idea/A00930386_A4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignments/A00930386_A1/.idea/A1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignments/A00930386_A1/A00930386_A1Q1/.idea/A00930386_A1Q1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignments/A00930386_A1/A00930386_A1Q2/.idea/A00930386_A1Q2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignments/A00930386_A1/A00930386_A1Q3/.idea/A00930386_A1Q3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignments/A00930386_A2/.idea/A2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/A00930386_Lab1/Week1Exercise/.idea/Week1Exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/A00930386_Lab1/Week1Exercise2/.idea/Week1Exercise2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/A00930386_Lab1/Week1Primes/.idea/Week1Primes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/A00930386_Lab1/Week1Rows/.idea/Week1Rows.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/A00930386_Lab2/.idea/Week2Lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/A00930386_Lab3/.idea/A00930386_Lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/A00930386_Lab4/.idea/A00930386_Lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture/Lecture3Example3/.idea/Lecture3Example3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture/Lecture3Example3_/.idea/Lecture3Example3_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz/Quiz 2/.idea/Quiz 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/.idea/Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/.idea/A1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/.idea/A00930386_A1Q1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/A00930386_A1Q1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/A00930386_A1Q1.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/A00930386_A1Q1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/A00930386_A1Q1.dir/A00930386_A1Q1.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/A00930386_A1Q1.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/A00930386_A1Q1.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/A00930386_A1Q1.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/A00930386_A1Q1.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/A00930386_A1Q1.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/A00930386_A1Q1.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/A00930386_A1Q1.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/A00930386_A1Q1.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/A00930386_A1Q1.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q1/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/.idea/A00930386_A1Q2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/A00930386_A1Q2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/A00930386_A1Q2.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/A00930386_A1Q2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/A00930386_A1Q2.dir/A00930386_A1Q2.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/A00930386_A1Q2.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/A00930386_A1Q2.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/A00930386_A1Q2.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/A00930386_A1Q2.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/A00930386_A1Q2.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/A00930386_A1Q2.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/A00930386_A1Q2.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/A00930386_A1Q2.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/A00930386_A1Q2.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q2/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/.idea/A00930386_A1Q3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/A00930386_A1Q3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/A00930386_A1Q3.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/A00930386_A1Q3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/A00930386_A1Q3.dir/A00930386_A1Q3.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/A00930386_A1Q3.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/A00930386_A1Q3.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/A00930386_A1Q3.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/A00930386_A1Q3.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/A00930386_A1Q3.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/A00930386_A1Q3.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/A00930386_A1Q3.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/A00930386_A1Q3.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/A00930386_A1Q3.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1/A00930386_A1Q3/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/.idea/A2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/A2.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/A2.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/A2.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/A2.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/A2.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/A2.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/A2.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/A2.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/A1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/A2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/.idea/COMP2510.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/COMP2510.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/COMP2510.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/COMP2510.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/COMP2510.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/COMP2510.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/COMP2510.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/COMP2510.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/COMP2510.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/COMP2510.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/COMP2510.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/COMP2510.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/COMP2510.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2510/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/.idea/Week1Exercise.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/Week1Exercise.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/Week1Exercise.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/Week1Exercise.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/Week1Exercise.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/Week1Exercise.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/Week1Exercise.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/Week1Exercise.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/Week1Exercise.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/Week1Exercise.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/Week1Exercise.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/Week1Exercise.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/Week1Exercise.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/.idea/Week1Exercise2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/Week1Exercise2.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/Week1Exercise2.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/Week1Exercise2.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/Week1Exercise2.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/Week1Exercise2.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/Week1Exercise2.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/Week1Exercise2.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/Week1Exercise2.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/Week1Exercise2.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/Week1Exercise2.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/Week1Exercise2.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/Week1Exercise2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Exercise2/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/.idea/Week1Primes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/Week1Primes.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/Week1Primes.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/Week1Primes.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/Week1Primes.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/Week1Primes.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/Week1Primes.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/Week1Primes.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/Week1Primes.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/Week1Primes.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/Week1Primes.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/Week1Primes.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/Week1Primes.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Primes/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/.idea/Week1Rows.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/Week1Rows.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/Week1Rows.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/Week1Rows.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/Week1Rows.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/Week1Rows.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/Week1Rows.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/Week1Rows.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/Week1Rows.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/Week1Rows.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/Week1Rows.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/Week1Rows.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/Week1Rows.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/Week1Rows/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/.idea/Week2Lab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/A00930386_Week2Lab.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/Week2Lab.dir/A00930386_Week2Lab.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/Week2Lab.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/Week2Lab.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/Week2Lab.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/Week2Lab.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/Week2Lab.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/Week2Lab.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/Week2Lab.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/Week2Lab.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/Week2Lab.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/Week2Lab.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/Week2Lab.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/Week2Lab.exe.stackdump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2Lab/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Jason Lui\CLionProjects\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WjqdSUe9fYVx9v8PxQg8cMg10Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/A00930386_A4" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e926a93-e271-44ba-a4bd-fe3346aec5ba" name="Default Changelist" comment="" />
+      <created>1579673438930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579673438930</updated>
+      <workItem from="1579673440613" duration="131000" />
+      <workItem from="1579714781789" duration="2838000" />
+      <workItem from="1579738419310" duration="1021000" />
+      <workItem from="1580590667606" duration="2911000" />
+      <workItem from="1580670690724" duration="14000" />
+    </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1579738429414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579738429414</updated>
+    </task>
+    <task id="LOCAL-00002" summary="a">
+      <created>1579739858225</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579739858225</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="25" key="CommitChangelistDialog2" timestamp="1580590700792">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="425" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1580590700792" />
+    <state x="230" y="186" key="FileChooserDialogImpl" timestamp="1580670702181">
+      <screen x="0" y="0" width="900" height="1560" />
+    </state>
+    <state x="230" y="186" key="FileChooserDialogImpl/0.0.900.1560@0.0.900.1560" timestamp="1580670702181" />
+    <state x="668" y="324" key="Github.ShareDialog" timestamp="1579673459356">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="668" y="324" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1579673459356" />
+    <state x="592" y="136" key="Github.UntrackedFilesDialog" timestamp="1579673524062">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="592" y="136" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1579673524062" />
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1579739862628">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1579739862628" />
+  </component>
+</project>

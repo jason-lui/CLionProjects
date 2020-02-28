@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/L5E2.dir/main.c.o  -o L5E2.exe -Wl,--out-implib,libL5E2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

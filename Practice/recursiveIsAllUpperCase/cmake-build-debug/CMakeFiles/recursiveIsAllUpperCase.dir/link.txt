@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/recursiveIsAllUpperCase.dir/main.c.o  -o recursiveIsAllUpperCase.exe -Wl,--out-implib,librecursiveIsAllUpperCase.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

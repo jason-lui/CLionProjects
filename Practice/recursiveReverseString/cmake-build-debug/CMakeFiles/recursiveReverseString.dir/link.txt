@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/recursiveReverseString.dir/main.c.o  -o recursiveReverseString.exe -Wl,--out-implib,librecursiveReverseString.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

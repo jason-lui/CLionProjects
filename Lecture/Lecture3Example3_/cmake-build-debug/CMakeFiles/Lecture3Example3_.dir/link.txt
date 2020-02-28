@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Lecture3Example3_.dir/main.c.o  -o Lecture3Example3_.exe -Wl,--out-implib,libLecture3Example3_.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
