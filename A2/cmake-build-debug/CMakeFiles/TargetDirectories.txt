@@ -1,3 +1,0 @@
-/cygdrive/c/Users/Jason Lui/CLionProjects/A2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/Jason Lui/CLionProjects/A2/cmake-build-debug/CMakeFiles/A2.dir
-/cygdrive/c/Users/Jason Lui/CLionProjects/A2/cmake-build-debug/CMakeFiles/edit_cache.dir

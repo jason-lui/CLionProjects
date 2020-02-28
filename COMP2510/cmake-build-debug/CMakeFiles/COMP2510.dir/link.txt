@@ -1,1 +1,0 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/COMP2510.dir/main.cpp.o  -o COMP2510.exe -Wl,--out-implib,libCOMP2510.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

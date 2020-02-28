@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Week1Exercise2.dir/main.c.o  -o Week1Exercise2.exe -Wl,--out-implib,libWeek1Exercise2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
